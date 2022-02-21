@@ -1,6 +1,10 @@
-/* h1 {
-    color: blue;
+.head-container {
     background-color: aqua;
+    border: solid 1px black;
+}
+
+h1 {
+    color: blue;
     fill: coral;
 }
 
@@ -9,60 +13,30 @@
 }
 
 #Panding {
-    padding: auto;
+    font-size: larger;
+    margin-left: auto;
+    /* margin-left: 30cm;
+    padding-left: 0cm; */
+    color: red;
 }
 
 hr {
+    margin-top: 0%;
     border: solid;
     color: darkcyan;
 }
 
 #text-design {
-    color: blue;
-    font-size: 100000px;
-    font-size: large;
+    padding-top: 0%;
+    margin-top: 0%;
+    color: black;
+    font-size: 1cm;
+    background-color: darkgoldenrod;
+    width: max-content;
+    width: 80%;
 }
+
 .headings {
     color: blue;
     font-size: large;
-} */
-
-
-/* 
-#text-desihn {
-    font-size: large;
-    color: blue;
-    background-color: darkgoldenrod;
-} */
-
-
-/* 
-hr {
-    border: solid;
-} */
-
-
-/* body {
-    background-image: url(../Images/image2.jpg);
-} */
-
-
-/* These all tags and settings !important. this setting usage for; fit image in background ; */
-
-
-/* #bg-image {
-    object-fit: cover;
-    width: 100%;
 }
-
-.container {
-    position: relative;
-    text-align: center;
-    color: white;
-}
-
-.top-div {
-    position: absolute;
-    top: 8px;
-    left: 16px;
-} */
