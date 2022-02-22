@@ -6,6 +6,7 @@
 h1 {
     color: blue;
     fill: coral;
+    background-color: darkgoldenrod;
 }
 
 #Margin {
@@ -39,4 +40,10 @@ hr {
 .headings {
     color: blue;
     font-size: large;
+}
+
+body {
+    border: solid;
+    color: darkcyan;
+    background-color: darkgray;
 }
